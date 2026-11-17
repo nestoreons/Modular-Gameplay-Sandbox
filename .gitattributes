@@ -1,0 +1,19 @@
+# Automatically detect text files
+* text=auto
+
+# Unity files
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.mat text eol=lf
+*.controller text eol=lf
+*.anim text eol=lf
+
+# Code and configuration
+*.cs text eol=lf
+*.json text eol=lf
+*.inputactions text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.vsconfig text eol=lf
